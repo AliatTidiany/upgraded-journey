@@ -23,7 +23,12 @@ header-includes: |
             pdfcreator={Emacs, Pandoc, Latex, Markdown}}
     
 ---
-```python
-def foobarbaz():
-    return 42
-```
+# Rapport cours python: 
+## Notions de Classes, Instances et Méthodes
+effectué par ***Alioune MBODJI***
+
+### Les Classes:
+- Une classe nous permet de définir notre propre type.
+- A chaque appel d’une classe, on aura la création de nouvelles instances.
+- On parle de relation d’héritage entre les classes et les instances.
+- Les instances vont pouvoir hériter de tous les attributs de l’espace de nommage de la classe.
