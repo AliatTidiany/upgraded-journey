@@ -32,3 +32,8 @@ effectué par ***Alioune MBODJI***
 - A chaque appel d’une classe, on aura la création de nouvelles instances.
 - On parle de relation d’héritage entre les classes et les instances.
 - Les instances vont pouvoir hériter de tous les attributs de l’espace de nommage de la classe.
+
+  - Illustration:
+  ![](./img/img_class.png){width=8in} 
+
+
