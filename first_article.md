@@ -1,6 +1,6 @@
 ---
 title: |
-  "Introduction to Python modules."
+  "Resume python courses"
 date: November, 2022
 lang: en-EN
 urlcolor: blue
@@ -34,6 +34,6 @@ effectué par ***Alioune MBODJI***
 - Les instances vont pouvoir hériter de tous les attributs de l’espace de nommage de la classe.
 
   - Illustration:
-  ![](./img/img_class.png){width=8in} 
+  ![](./img_class.png){width=8in} 
 
 
