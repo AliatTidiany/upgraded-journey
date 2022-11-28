@@ -34,6 +34,6 @@ effectué par ***Alioune MBODJI***
 - Les instances vont pouvoir hériter de tous les attributs de l’espace de nommage de la classe.
 
   - Illustration:
-  ![](./upgraded-journey/img/img_class.png){width=8in} 
+  ![](./img/img_class.png){width=8in} 
 
 
