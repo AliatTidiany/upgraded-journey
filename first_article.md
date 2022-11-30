@@ -1,6 +1,6 @@
 ---
 title: |
-  "Resume python courses"
+  "Python Courses"
 date: November, 2022
 lang: en-EN
 urlcolor: blue
@@ -12,12 +12,12 @@ header-includes: |
     \pagestyle{fancy}
     \fancyhf{}
     \rhead{Dakar Institute of Technology}
-    \lhead{Patrick Nsukami}
+    \lhead{Alioune Mbodji}
     \rfoot{Page \thepage}
     \hypersetup{pdftex,
-            pdfauthor={Patrick Nsukami},
-            pdftitle={Introduction to Python programming},
-            pdfsubject={Introduction to Python programming},
+            pdfauthor={Alioune Mbodji},
+            pdftitle={Python Courses},
+            pdfsubject={Python Courses},
             pdfkeywords={Python, Programming},
             pdfproducer={Emacs, Pandoc, Latex, Markdown},
             pdfcreator={Emacs, Pandoc, Latex, Markdown}}
@@ -28,6 +28,7 @@ header-includes: |
 effectué par ***Alioune MBODJI***
 
 ### Les classes:
+
 - Une classe nous permet de définir notre propre type.
 - A chaque appel d’une classe, on aura la création de nouvelles instances.
 - On parle de relation d’héritage entre les classes et les instances.
@@ -38,6 +39,7 @@ effectué par ***Alioune MBODJI***
   ![](./img/img_class.png){width=6in} 
 
 ### Les instances et les méthodes:
+
 - Les classes et les objets sont des objets mutables.
 - Les méthodes sont des fonctions définies à l’intérieur de la classe.
 - Les classes et les instances ont leurs propres espaces de nommage
@@ -46,6 +48,18 @@ effectué par ***Alioune MBODJI***
  - Illustration:
 
  ![](./img/img_inst.png){width=6in}
+
+
+### Les méthodes spéciales:
+
+- Les méthodes spéciales commencent par des « __ »  et se terminent de la même manière.
+- Les méthodes spéciales permettent aux instances d’avoir le même comportement que les objets buil-in. 
+- La méthode (_init_) est une méthode spéciale qui permet d’initialiser des instances avec des valeurs par défauts. 
+
+ - Illustration avec la méthode spéciale init: 
+
+ ![](./img/img_init.png){width=6in}
+
 
 
 
