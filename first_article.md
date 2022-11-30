@@ -61,6 +61,37 @@ effectué par ***Alioune MBODJI***
  ![](./img/img_init.png){width=6in}
 
 
+ ### Les héritages: 
+
+- Par définition les classes peuvent héritées d’autres classes.
+- Les classes supérieures sont appelées des super-classes et celles inférieures des sous-classes: on a un arbre d’héritage entre elles.
+- Lorsqu’une classe hérite d’une autre alors naturellement elle hérite de toutes ses méthodes.
+- Une classe hérite d’une autre lorsqu’elle est un argument de cette dernière.
+
+ - Illustration: 
+
+ ![](./img/img_heritage.png){width=6in}
+
+- PhraseSansCasse va hériter de la classe phrase.
+- isinstance nous permet de vérifier si un objet est une instance directe d’une classe ou une instance des super classes qui ont instancié l’objet.
+
+ - Illustration de isinstance: 
+
+ ![](./img/img_isinstance.png){width=6in}
+
+ **Initialisation d'une sous-classe**:
+
+ - On parle de surcharge d’une classe lorsqu’on initialise notre sous-classe avec la méthode (_init_), ainsi la méthode (_init_) de la super-classe ne sera pas appelée par défaut à moins qu’on la force.
+
+  - Illustration:
+
+  ![](./img/img_initsouscla.png){width=6in}
+
+
+
+
+
+
 
 
 
